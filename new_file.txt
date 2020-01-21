@@ -4,3 +4,4 @@ I added code from github.
 I changed the file again.
 Change done after adding a new branch.
 Conflict will occur.
+Change done for conflict.
